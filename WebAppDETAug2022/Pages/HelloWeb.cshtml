@@ -1,12 +1,12 @@
-﻿@page
+﻿//@*@page
 @model WebAppDETAug2022.Pages.HelloWebModel
 @{
 }
-
-<h2>welcome to my site</h2>
+<h2>welcome to my site!!</h2>
 <h3>happy @DateTime.Today.DayOfWeek!!</h3>
 
-page Says @Model.Message
+Page Says @Model.Message
 
 <p>Discount for today @Model.Discount%</p>
-<h5>Offer valid till @DateTime.Today.AddDays(3)</h5>
+<h5>offer valid till @DateTime.Today.AddDays(3) </h5>
+//*@
