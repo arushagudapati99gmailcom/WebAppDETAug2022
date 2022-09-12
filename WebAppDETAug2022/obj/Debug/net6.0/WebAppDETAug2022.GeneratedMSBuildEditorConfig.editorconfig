@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAppDETAug2022
+build_property.RootNamespace = WebAppDETAug2022
+build_property.ProjectDir = C:\Users\etg1\source\repos\WebAppDETAug2022\WebAppDETAug2022\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\etg1\source\repos\WebAppDETAug2022\WebAppDETAug2022
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/BookingPages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1BhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/BookingPages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1BhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/BookingPages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1BhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/BookingPages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1BhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/BookingPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1BhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/HelloWeb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVsbG9XZWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/HeloPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVsb1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/IPLEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSVBMRXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/PizzaPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etg1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7ck5zuu7dr
