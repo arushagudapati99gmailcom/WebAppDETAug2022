@@ -1,0 +1,15 @@
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\bin\Debug\net6.0\ConsoleAPIClient.exe
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\bin\Debug\net6.0\ConsoleAPIClient.deps.json
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\bin\Debug\net6.0\ConsoleAPIClient.runtimeconfig.json
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\bin\Debug\net6.0\ConsoleAPIClient.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\bin\Debug\net6.0\ConsoleAPIClient.pdb
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.csproj.AssemblyReference.cache
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.AssemblyInfoInputs.cache
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.AssemblyInfo.cs
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\refint\ConsoleAPIClient.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.pdb
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ConsoleAPIClient.genruntimeconfig.cache
+C:\Users\etg1\source\repos\WebAppDETAug2022\ConsoleAPIClient\obj\Debug\net6.0\ref\ConsoleAPIClient.dll
