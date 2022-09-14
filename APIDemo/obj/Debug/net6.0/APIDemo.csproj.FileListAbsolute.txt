@@ -1,5 +1,6 @@
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\APIDemo.staticwebassets.runtime.json
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\APIDemo.exe
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\APIDemo.deps.json
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\APIDemo.runtimeconfig.json
@@ -8,6 +9,7 @@ C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\APIDemo.pdb
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Humanizer.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\MessagePack.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.Build.Locator.dll
@@ -40,7 +42,11 @@ C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.I
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.Spatial.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\etg1\source\repos\WebAppDETAug2022\APIDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll

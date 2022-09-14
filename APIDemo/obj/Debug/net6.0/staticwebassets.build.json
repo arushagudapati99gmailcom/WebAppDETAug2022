@@ -1,11 +1,71 @@
 {
   "Version": 1,
-  "Hash": "lS/LJ1PxhGn6rAJMQNfsW/sD15wl6EVFMQigatU1Xmg=",
+  "Hash": "jwUMuxftK54s+XhsoE4k6WvtO5E/4dM/MJhjtvMp4ao=",
   "Source": "APIDemo",
   "BasePath": "_content/APIDemo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIDemo\\wwwroot",
+      "Source": "APIDemo",
+      "ContentRoot": "C:\\Users\\etg1\\source\\repos\\WebAppDETAug2022\\APIDemo\\wwwroot\\",
+      "BasePath": "_content/APIDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\etg1\\source\\repos\\WebAppDETAug2022\\APIDemo\\wwwroot\\css\\site.cs",
+      "SourceId": "APIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etg1\\source\\repos\\WebAppDETAug2022\\APIDemo\\wwwroot\\",
+      "BasePath": "_content/APIDemo",
+      "RelativePath": "css/site.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.cs"
+    },
+    {
+      "Identity": "C:\\Users\\etg1\\source\\repos\\WebAppDETAug2022\\APIDemo\\wwwroot\\index.html",
+      "SourceId": "APIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etg1\\source\\repos\\WebAppDETAug2022\\APIDemo\\wwwroot\\",
+      "BasePath": "_content/APIDemo",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\etg1\\source\\repos\\WebAppDETAug2022\\APIDemo\\wwwroot\\js\\site.js",
+      "SourceId": "APIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etg1\\source\\repos\\WebAppDETAug2022\\APIDemo\\wwwroot\\",
+      "BasePath": "_content/APIDemo",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
 }
